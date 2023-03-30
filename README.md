@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Perfect-J 
--                               ![My World](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif)
+
+![My World](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif)
+
 
 - A passionate Software Engineer from Nigeria as a software engineer I focused on web development projects and I hope to become a fullstack developer. I'm working on personal projects to grow my skills up.
 - 👀 I’m interested in other fields. ...
